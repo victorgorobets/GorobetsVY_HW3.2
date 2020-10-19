@@ -11,6 +11,8 @@
 		048F2EBC253DF20300D207D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048F2EBB253DF20300D207D3 /* ContentView.swift */; };
 		048F2EBE253DF20400D207D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048F2EBD253DF20400D207D3 /* Assets.xcassets */; };
 		048F2EC1253DF20400D207D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048F2EC0253DF20400D207D3 /* Preview Assets.xcassets */; };
+		048F2ECA253DF39100D207D3 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048F2EC9253DF39100D207D3 /* ResultView.swift */; };
+		048F2ED2253E282300D207D3 /* ColorSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048F2ED1253E282300D207D3 /* ColorSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		048F2EBD253DF20400D207D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		048F2EC0253DF20400D207D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		048F2EC2253DF20400D207D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		048F2EC9253DF39100D207D3 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		048F2ED1253E282300D207D3 /* ColorSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				048F2EB9253DF20300D207D3 /* Gorobets_HW3_2App.swift */,
 				048F2EBB253DF20300D207D3 /* ContentView.swift */,
+				048F2ED1253E282300D207D3 /* ColorSettings.swift */,
+				048F2EC9253DF39100D207D3 /* ResultView.swift */,
 				048F2EBD253DF20400D207D3 /* Assets.xcassets */,
 				048F2EC2253DF20400D207D3 /* Info.plist */,
 				048F2EBF253DF20400D207D3 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				048F2EBC253DF20300D207D3 /* ContentView.swift in Sources */,
 				048F2EBA253DF20300D207D3 /* Gorobets_HW3_2App.swift in Sources */,
+				048F2ED2253E282300D207D3 /* ColorSettings.swift in Sources */,
+				048F2ECA253DF39100D207D3 /* ResultView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
